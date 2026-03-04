@@ -31,4 +31,4 @@ The app allows users to log in with **Google Sign-In**, view a list of images wi
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JayPatel-2504/GalleryAppMVVM.git
