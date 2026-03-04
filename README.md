@@ -9,7 +9,7 @@ The app allows users to log in with **Google Sign-In**, view a list of images wi
 
 - **Google Sign-In** authentication
 - Gallery with **UICollectionView**
-- - REST API Integration using **URLSession**
+- REST API Integration using **URLSession**
 - **Pagination** for fetching images
 - **Offline support** using Core Data + SDWebImage cache
 - **Network monitoring** (Online / Offline label)
